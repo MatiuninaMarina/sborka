@@ -13,9 +13,9 @@
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-<modules>
-    <module>db</module>
-    <module>api</module>
-    <module>service</module>
-</modules>
+    <modules>
+        <module>db</module>
+        <module>api</module>
+        <module>service</module>
+    </modules>
 </project>
